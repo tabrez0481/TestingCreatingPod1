@@ -1,0 +1,22 @@
+{
+  "name": "TestingCreatingPod1",
+  "version": "0.1.0",
+  "summary": "A short description of TestingCreatingPod1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tabz/TestingCreatingPod1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tabz": "tabrez0481@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Tabz/TestingCreatingPod1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestingCreatingPod1/Classes/**/*"
+}

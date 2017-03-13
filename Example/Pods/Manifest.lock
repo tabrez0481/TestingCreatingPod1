@@ -1,0 +1,16 @@
+PODS:
+  - TestingCreatingPod1 (0.1.0)
+
+DEPENDENCIES:
+  - TestingCreatingPod1 (from `../`)
+
+EXTERNAL SOURCES:
+  TestingCreatingPod1:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TestingCreatingPod1: 85188fdf85083d6323af59f74eb00dd1166dca8b
+
+PODFILE CHECKSUM: 747f8c1669ed2fedeaf7ddf07e60f77d3aaa85d9
+
+COCOAPODS: 1.1.1
